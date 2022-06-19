@@ -1,0 +1,42 @@
+html {
+  font-size: 14px;
+}
+
+nav {
+    background-color: #90C6AF;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: #90C6AF;
+    margin-bottom: 60px;
+}
+
+article{
+    background-color: white;
+}
+
+/* Styling for rounded dividers*/
+
+hr.rounded {
+    border-top: 5px solid #90C6AF;
+    border-radius: 5px;
+    margin: auto;
+    width: 50%;
+}
+
+/* Styling for all pages footer (contact info/social links) */
+
+footer {
+    background-color: #90C6AF;
+    box-shadow: 0 50vh 0 50vh #90C6AF;
+}

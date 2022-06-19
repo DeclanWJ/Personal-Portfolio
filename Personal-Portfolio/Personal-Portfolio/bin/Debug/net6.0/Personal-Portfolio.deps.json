@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Personal-Portfolio/1.0.0": {
+        "runtime": {
+          "Personal-Portfolio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Personal-Portfolio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
