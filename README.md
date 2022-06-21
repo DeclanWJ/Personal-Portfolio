@@ -26,6 +26,14 @@ Here I include personal projects I have worked on, or was involved in the proces
 
 Finally, I focus on any projects I worked on in high school or college. Some include code or links to GitHub repos, and some just include images and descriptions. 
 
+**Resume Section**
+
+This includes my updated resume.
+
+**Extra Accomplishments and Achievements**
+
+In here I talk about different accomplishments/achievements I have earned throughout the years, either relating to CS or not. 
+
 ## Files:
 
 ## Pictures:
