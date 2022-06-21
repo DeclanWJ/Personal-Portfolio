@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LG9dW+FqTUwmfdGLQqFKVd3fUBXqyj2b8JgTMpOv2+A=",
+  "Hash": "9o/t23udUsC4yDfdWud+4tt4gqRneGvXnJ7/9Y3DQ7Y=",
   "Source": "Personal-Portfolio",
   "BasePath": "_content/Personal-Portfolio",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\GHLogo.png",
+      "SourceId": "Personal-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal-Portfolio",
+      "RelativePath": "GHLogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\GHLogo.png"
     },
     {
       "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\js\\site.js",
@@ -1069,6 +1086,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\LIlogo.png",
+      "SourceId": "Personal-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal-Portfolio",
+      "RelativePath": "LIlogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LIlogo.png"
+    },
+    {
+      "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\SULogo.png",
+      "SourceId": "Personal-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal-Portfolio",
+      "RelativePath": "SULogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SULogo.png"
     }
   ]
 }

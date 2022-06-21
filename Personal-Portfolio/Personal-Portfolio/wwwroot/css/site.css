@@ -2,9 +2,22 @@ html {
   font-size: 14px;
 }
 
-nav {
-    background-color: #90C6AF;
+/* Header 1 styling */
+h1{
+
 }
+
+/* Paragraph Styling */
+p{
+   
+}
+
+#suImg{
+    height:10%;
+    width: 10%;
+}
+
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -16,13 +29,17 @@ html {
   min-height: 100%;
 }
 
+/* Styling for all body */
+
 body {
     background-color: #90C6AF;
     margin-bottom: 60px;
 }
 
+/* Styling for generic article section*/
 article{
     background-color: white;
+    border-radius:20px;
 }
 
 /* Styling for rounded dividers*/
@@ -39,4 +56,25 @@ hr.rounded {
 footer {
     background-color: #90C6AF;
     box-shadow: 0 50vh 0 50vh #90C6AF;
+    display: flex;
+    flex-direction: row;
+    align-content:center;
+    align-items:center;
+    justify-content:center;
+}
+
+div.footerIcons{
+    display:flex;
+    flex-direction:row;
+}
+
+a.iconLinks{
+    height:20px;
+    width:20px;
+}
+
+img.logos{
+
+    width:100%;
+    height:100%;
 }
