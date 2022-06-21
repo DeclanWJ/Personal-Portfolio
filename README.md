@@ -14,7 +14,7 @@ Description about me. My experience in college at Southwestern University. My ex
 
 This includes projects that I have worked on. 
 
-Proffessional projects:
+<u>Proffessional projects:<u>
 
 This focuses on any proffessional projects I worked on, what company I was with, and what software/languages I used. As well as what challenges I faced, and what i learned along the way. (No links/access to code)
 
