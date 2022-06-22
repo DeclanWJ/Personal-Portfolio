@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9o/t23udUsC4yDfdWud+4tt4gqRneGvXnJ7/9Y3DQ7Y=",
+  "Hash": "2PqKh85aRsvyisuV5MGwxVeDAh8yPwkvWYnoTYi9lyQ=",
   "Source": "Personal-Portfolio",
   "BasePath": "_content/Personal-Portfolio",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Personal-Portfolio.bundle.scp.css"
     },
     {
+      "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\BLILogo.png",
+      "SourceId": "Personal-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal-Portfolio",
+      "RelativePath": "BLILogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BLILogo.png"
+    },
+    {
       "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\css\\site.css",
       "SourceId": "Personal-Portfolio",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\DeclanJ_Resume.pdf",
+      "SourceId": "Personal-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal-Portfolio",
+      "RelativePath": "DeclanJ_Resume.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DeclanJ_Resume.pdf"
     },
     {
       "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\favicon.ico",
