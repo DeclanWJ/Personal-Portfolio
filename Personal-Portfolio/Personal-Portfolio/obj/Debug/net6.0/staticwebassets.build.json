@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2PqKh85aRsvyisuV5MGwxVeDAh8yPwkvWYnoTYi9lyQ=",
+  "Hash": "FQFwhVRyAlPDGWmsPyf1jJvPnHTipe968sj8rihU5XY=",
   "Source": "Personal-Portfolio",
   "BasePath": "_content/Personal-Portfolio",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\LIlogo.png"
+    },
+    {
+      "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\Q Learning GUI 3.png",
+      "SourceId": "Personal-Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal-Portfolio",
+      "RelativePath": "Q Learning GUI 3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Q Learning GUI 3.png"
     },
     {
       "Identity": "C:\\GitHub Personal Projects\\Personal-Portfolio\\Personal-Portfolio\\Personal-Portfolio\\wwwroot\\SULogo.png",

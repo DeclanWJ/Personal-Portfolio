@@ -89,3 +89,25 @@ a.resLink{
     justify-content:center; 
     font:100;
 }
+
+/* Projects styling */
+img.projects{
+    height=100%;
+    width=100%;
+    transition:.2s;
+}
+
+img.projects:hover{
+    transform: scale(1.05);
+}
+
+div.projectDes{
+    display:flex;
+    flex-direction:row;
+}
+
+/* Styling for list used to describe projects*/
+ul.projectList{
+    padding-top:2%;
+    padding-left:8%;
+}
