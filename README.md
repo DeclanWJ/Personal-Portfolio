@@ -34,6 +34,6 @@ This includes my updated resume.
 
 In here I talk about different accomplishments/achievements I have earned throughout the years, either relating to CS or not. 
 
-## Files:
+## What I Learned:
 
-## Pictures:
+Throughout this project I followed no tutorials, and went through the process of creating my own personal portfolio website. Overall, I learned some more in depth **HTML and CSS techniques** for creating an assetic website as well as adding in some interesting functionality. This project really helped build my confidence in front end developement, and my website design capabilities. 
