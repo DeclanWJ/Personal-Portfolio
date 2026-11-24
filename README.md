@@ -6,9 +6,8 @@ A static personal portfolio for Declan Jeffrey, published with GitHub Pages.
 
 ## Contents
 
-- About
-- Selected project
-- Resume
+- About, including the resume link
+- Selected projects
 - Accomplishments
 
 ## Local preview
@@ -21,6 +20,7 @@ require a build step or server.
 - `index.html` contains the page content and navigation.
 - `styles.css` contains the site styles.
 - `assets/` contains the resume and images used by the page.
+- `assets/Declan_Jeffrey_Resume.pdf` is the current resume linked from the page.
 
 GitHub Pages publishes the site from the repository root. Push changes to the
 configured publishing branch to update the live site.
