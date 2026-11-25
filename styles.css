@@ -168,6 +168,14 @@ h3 {
   padding: 2.5rem 0;
 }
 
+.project-card--task {
+  grid-template-columns: minmax(0, 0.8fr) minmax(16rem, 1.2fr);
+}
+
+.project-card--task .project-image img {
+  aspect-ratio: auto;
+}
+
 .project-card + .project-card {
   border-top: 1px solid var(--line);
 }
